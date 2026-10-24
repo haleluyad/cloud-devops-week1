@@ -27,11 +27,13 @@ This repository documents my Week 1 Linux hands-on lab for the Cloud and DevOps 
 | `find` | Searches for files |
 | `ps` | Displays running processes |
 
-Project Structure
+## Project Structure
 
+```text
 cloud-devops/week1/
 └── scripts/
     └── notes.txt
+```
 
 
 ## Evidence
